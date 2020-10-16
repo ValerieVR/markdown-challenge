@@ -24,8 +24,8 @@ Pinneapple on pizza | No :nauseated_face:
 * Going for a walk
 * Cleaning (calms my mind)
 * Learning languages
- * German
- * Mandarin
+  * German
+  * Mandarin
 
  ## A funny story
  When I was a kid the ball I was playing with fell on a car and the car's alarm went off.
@@ -35,5 +35,12 @@ Pinneapple on pizza | No :nauseated_face:
 
  ### TL;DR
  Kids and their imagination :rofl:
+ <br/>
+ <br/>
+ <br/>
+
+ <<[previous](https://github.com/Steeeeeph/markdown-challenge) | Valerie Van Renne | [next](https://github.com/VidyashreeTarikere/markdown-challenge)>>
+
+
 
 
