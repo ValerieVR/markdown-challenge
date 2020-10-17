@@ -1,8 +1,6 @@
 # Valerie Van Renne
 
-> *We are only as blind as we want to be.*
->
-> -- *Maya Angelou*
+*We are only as blind as we want to be - Maya Angelou*
 
 ![Photo of myself](Image.jpeg)
 <br/>
