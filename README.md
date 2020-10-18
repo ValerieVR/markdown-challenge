@@ -40,7 +40,7 @@ Kids and their imagination :rofl:
 <br/>
 <br/>
 
-<<[previous](https://github.com/Steeeeeph/markdown-challenge) || Valerie Van Renne || [next](https://github.com/VidyashreeTarikere/markdown-challenge)>>
+[<<previous](https://github.com/Steeeeeph/markdown-challenge) || [Valerie Van Renne](https://github.com/ValerieVR/markdown-challenge) || [next>>](https://github.com/VidyashreeTarikere/markdown-challenge)
 
 
 
