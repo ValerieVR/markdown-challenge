@@ -15,7 +15,7 @@ Question | Answer
 Birthday | 21st of August
 Favorite color | Blue
 Favorite food | All kinds of fruit
-Pinneapple on pizza | No :nauseated_face:
+Pinneapple on pizza | -[] Yes -[x] No :nauseated_face:
 
 ## Hobbies
 * Going for a walk
